@@ -1,0 +1,13 @@
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\IG-DTX.exe.config
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\IG-DTX.exe
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\IG-DTX.pdb
+C:\Users\Ilir Gashi\source\repos\IG-DTX\obj\Debug\IG-DTX.csprojAssemblyReference.cache
+C:\Users\Ilir Gashi\source\repos\IG-DTX\obj\Debug\IG-DTX.exe
+C:\Users\Ilir Gashi\source\repos\IG-DTX\obj\Debug\IG-DTX.pdb
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilir Gashi\source\repos\IG-DTX\obj\Debug\IG-DTX.csproj.CopyComplete
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\CsvHelper.dll
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\System.ValueTuple.dll
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\CsvHelper.xml
+C:\Users\Ilir Gashi\source\repos\IG-DTX\bin\Debug\System.ValueTuple.xml

@@ -1,0 +1,5756 @@
+[
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 123.99
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1342.52
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 964.09
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1154.58
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 435.35
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 325.31
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 405.69
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 456.23
+  },
+  {
+    "Customer": "000001",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 676.59
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 501.77
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 805.90
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 753.85
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 661.85
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1394.89
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 218.38
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 635.93
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 861.48
+  },
+  {
+    "Customer": "000002",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 73.54
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 693.98
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 390.11
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 694.69
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1202.07
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 571.23
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 510.06
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 217.12
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 934.32
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 63.28
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 447.05
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 238.83
+  },
+  {
+    "Customer": "000003",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 454.10
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 439.22
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 506.27
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 377.01
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 685.38
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1292.08
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 72.08
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 837.86
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 746.62
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 699.24
+  },
+  {
+    "Customer": "000004",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 302.30
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 602.89
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 534.47
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 155.54
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1032.36
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 153.08
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1303.25
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 158.64
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 435.62
+  },
+  {
+    "Customer": "000005",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 553.13
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 997.94
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 292.07
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 728.33
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1060.55
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 416.71
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1522.99
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1108.35
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 714.42
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 165.49
+  },
+  {
+    "Customer": "000006",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 740.95
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 168.43
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 718.87
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 645.45
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1012.51
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 516.00
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 131.62
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 888.54
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1026.67
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 964.45
+  },
+  {
+    "Customer": "000007",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1450.90
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 823.65
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 428.12
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 649.10
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 299.05
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 577.23
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 820.49
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 509.15
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 456.98
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 252.03
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 681.57
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 719.64
+  },
+  {
+    "Customer": "000008",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 331.15
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 920.60
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 463.70
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1045.11
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 405.16
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1329.24
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 608.81
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 146.17
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1024.02
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 800.79
+  },
+  {
+    "Customer": "000009",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 404.19
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 298.44
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1090.24
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 580.13
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 77.48
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 143.62
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 540.95
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 290.95
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 406.12
+  },
+  {
+    "Customer": "000010",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 728.71
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 155.41
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 854.10
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 349.67
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 800.98
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 827.75
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 55.94
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 347.18
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 192.98
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 459.27
+  },
+  {
+    "Customer": "000011",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 291.55
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 460.85
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 915.68
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 706.31
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 359.07
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 387.94
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 466.14
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1490.72
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1567.32
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 599.57
+  },
+  {
+    "Customer": "000012",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1226.42
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 605.00
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 331.71
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 373.55
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 36.30
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 230.92
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 225.80
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 20.56
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1018.62
+  },
+  {
+    "Customer": "000013",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 949.83
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 541.13
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 774.66
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 386.76
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 176.06
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1223.06
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 673.83
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 717.07
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1423.08
+  },
+  {
+    "Customer": "000014",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 789.44
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1373.25
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1224.48
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 579.55
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 291.11
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1107.58
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 440.69
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 46.03
+  },
+  {
+    "Customer": "000015",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 574.07
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 854.70
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 800.53
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1102.10
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 485.11
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1404.53
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 470.47
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 371.54
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 981.79
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 466.89
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 128.18
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 820.53
+  },
+  {
+    "Customer": "000016",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 401.55
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 627.80
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 355.26
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 709.46
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 896.99
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 968.77
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 162.51
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 158.26
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1296.23
+  },
+  {
+    "Customer": "000017",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 518.49
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 661.00
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 670.00
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1154.04
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 282.58
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 423.51
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 505.85
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 586.25
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 590.48
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 834.79
+  },
+  {
+    "Customer": "000018",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1410.66
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1114.26
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 911.75
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 609.47
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 901.84
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 573.16
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 570.92
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1149.21
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 112.18
+  },
+  {
+    "Customer": "000019",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 976.20
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1137.35
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1053.15
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1314.21
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1063.62
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 233.57
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1126.52
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1318.10
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 796.47
+  },
+  {
+    "Customer": "000020",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 704.10
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 520.83
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 831.38
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1278.31
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 701.87
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 893.88
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 205.89
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 978.18
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 360.06
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 429.07
+  },
+  {
+    "Customer": "000021",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 543.83
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 939.41
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 401.72
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 786.22
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1200.00
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 548.22
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 716.89
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 128.68
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1247.37
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 272.11
+  },
+  {
+    "Customer": "000022",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 339.18
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 383.87
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 433.65
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 622.64
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 894.13
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 303.22
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 430.04
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1026.46
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 25.38
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 525.64
+  },
+  {
+    "Customer": "000023",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1195.79
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1007.19
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 910.42
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 342.34
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1053.52
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 145.05
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 27.06
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 348.57
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 39.56
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 594.22
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 533.30
+  },
+  {
+    "Customer": "000024",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 430.81
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 825.59
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 734.17
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 749.49
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 312.96
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 102.84
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 702.08
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 399.57
+  },
+  {
+    "Customer": "000025",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 450.31
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1325.32
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 749.83
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 550.49
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1228.51
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1241.04
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 25.38
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 522.75
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 759.93
+  },
+  {
+    "Customer": "000026",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1428.59
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 256.56
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1070.91
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 224.90
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 388.96
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 581.33
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 502.57
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 101.31
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 188.41
+  },
+  {
+    "Customer": "000027",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 790.85
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1068.62
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 337.37
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1009.04
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 774.68
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1010.09
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 818.59
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 786.97
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 202.48
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 332.21
+  },
+  {
+    "Customer": "000028",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 349.91
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1220.69
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 936.79
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 917.37
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1094.99
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1084.20
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 792.93
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 879.14
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 776.22
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1326.66
+  },
+  {
+    "Customer": "000029",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 868.09
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 955.09
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 950.56
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 701.98
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 970.06
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 609.67
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 710.14
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 207.74
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 688.09
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1696.91
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1609.53
+  },
+  {
+    "Customer": "000030",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 629.14
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 335.46
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 700.01
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 575.88
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 921.01
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 499.49
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 591.54
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 734.72
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1482.04
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 209.43
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 80.23
+  },
+  {
+    "Customer": "000031",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 507.17
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 281.98
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 388.44
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 469.21
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 542.85
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 888.49
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 479.53
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 75.67
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 209.67
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 568.66
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1102.72
+  },
+  {
+    "Customer": "000032",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 309.33
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 479.40
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1203.13
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1042.71
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 495.48
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1631.75
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 292.18
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 875.34
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1276.93
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 127.44
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 289.37
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1041.22
+  },
+  {
+    "Customer": "000033",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 653.41
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 175.55
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 473.76
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 555.57
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 880.44
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 422.24
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 843.39
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1099.55
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 363.81
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 687.16
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 938.24
+  },
+  {
+    "Customer": "000034",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 382.70
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 697.77
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1016.84
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1039.16
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 322.49
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1194.80
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 309.78
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 690.64
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1216.68
+  },
+  {
+    "Customer": "000035",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 959.49
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 240.27
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 555.07
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1096.37
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 935.27
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1001.91
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 331.81
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 920.44
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 297.62
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 349.64
+  },
+  {
+    "Customer": "000036",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 763.43
+  },
+  {
+    "Customer": "000037",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1077.24
+  },
+  {
+    "Customer": "000037",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 561.58
+  },
+  {
+    "Customer": "000037",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 609.10
+  },
+  {
+    "Customer": "000037",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 799.60
+  },
+  {
+    "Customer": "000037",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 239.72
+  },
+  {
+    "Customer": "000037",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 789.37
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 269.57
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 878.53
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1400.37
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 359.22
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 611.10
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 306.49
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 517.78
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1246.60
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 650.09
+  },
+  {
+    "Customer": "000038",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1258.10
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 787.29
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 611.59
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 988.91
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 959.39
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 912.00
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 976.03
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 442.34
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 66.91
+  },
+  {
+    "Customer": "000039",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1111.37
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 129.00
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 173.65
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 63.11
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 238.70
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1352.27
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 677.36
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1101.83
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 158.72
+  },
+  {
+    "Customer": "000040",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 478.44
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 619.15
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 549.21
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 101.31
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 519.10
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 845.73
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 807.77
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1006.02
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 483.58
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 264.07
+  },
+  {
+    "Customer": "000041",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 445.87
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 215.20
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 731.14
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1211.11
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 431.54
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 185.18
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 562.59
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 916.26
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 193.89
+  },
+  {
+    "Customer": "000042",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 143.37
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 312.50
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 133.49
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 53.60
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 745.24
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 689.68
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 425.44
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 123.48
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 961.76
+  },
+  {
+    "Customer": "000043",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 489.50
+  },
+  {
+    "Customer": "000044",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 604.36
+  },
+  {
+    "Customer": "000044",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 195.01
+  },
+  {
+    "Customer": "000044",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 345.00
+  },
+  {
+    "Customer": "000044",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1299.61
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 658.62
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 328.25
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 933.30
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 473.14
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 577.12
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 319.47
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 365.19
+  },
+  {
+    "Customer": "000045",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 749.32
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 455.72
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 529.20
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 196.57
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 254.35
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 413.11
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 237.89
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 676.40
+  },
+  {
+    "Customer": "000046",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1490.15
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1289.32
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 666.62
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 550.20
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 143.91
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 382.28
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 201.51
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 930.78
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1319.39
+  },
+  {
+    "Customer": "000047",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 343.85
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 81.37
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 142.78
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 251.90
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1353.92
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 452.95
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 268.80
+  },
+  {
+    "Customer": "000048",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 974.33
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 522.86
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1388.95
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 523.30
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 51.63
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 940.40
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 455.39
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 190.59
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1244.28
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 495.32
+  },
+  {
+    "Customer": "000049",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 792.09
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 975.10
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 925.00
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 177.67
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1125.93
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1021.60
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 929.51
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 81.68
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1202.51
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 491.04
+  },
+  {
+    "Customer": "000050",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 538.80
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 748.89
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1081.72
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 469.42
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 542.76
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 594.53
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 853.63
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 384.56
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1035.18
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 652.12
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1406.01
+  },
+  {
+    "Customer": "000051",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 595.62
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 297.04
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 145.80
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1237.71
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 808.38
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1034.87
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1460.54
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 673.05
+  },
+  {
+    "Customer": "000052",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 488.28
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 345.95
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 679.96
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 866.40
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 973.89
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 839.40
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 588.68
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 922.47
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 510.56
+  },
+  {
+    "Customer": "000053",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 483.02
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 956.66
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1078.01
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 335.23
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 826.73
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 743.26
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 574.90
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1110.75
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 616.58
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 514.92
+  },
+  {
+    "Customer": "000054",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 538.74
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 762.90
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1005.55
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 437.30
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 551.13
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 149.84
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 559.12
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 752.78
+  },
+  {
+    "Customer": "000055",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 146.73
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 467.84
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 544.61
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 234.91
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 318.48
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 738.04
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 459.82
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 242.09
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 873.56
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 622.62
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1677.63
+  },
+  {
+    "Customer": "000056",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 589.52
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1048.09
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 409.38
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 570.30
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 288.02
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1309.87
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 325.97
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 606.83
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 77.81
+  },
+  {
+    "Customer": "000057",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 164.14
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 619.67
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1680.58
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 670.25
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 796.74
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 294.76
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 404.12
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 992.89
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 108.88
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 129.57
+  },
+  {
+    "Customer": "000058",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1703.56
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 369.11
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1214.22
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 279.43
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 133.02
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 800.96
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 94.63
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 763.28
+  },
+  {
+    "Customer": "000059",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 32.09
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 443.41
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 55.87
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 166.43
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 128.52
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 385.02
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 209.39
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 131.89
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 856.26
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 907.94
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 472.94
+  },
+  {
+    "Customer": "000060",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1024.60
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 561.79
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1017.93
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 971.22
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 275.24
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 161.92
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1143.06
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 538.58
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 359.09
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 665.23
+  },
+  {
+    "Customer": "000061",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1085.76
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1254.24
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1264.87
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 949.15
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 442.23
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1160.65
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 554.92
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 142.26
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 460.23
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 176.00
+  },
+  {
+    "Customer": "000062",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 486.52
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 743.10
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 733.01
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 735.58
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 600.84
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 59.37
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 180.30
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 393.91
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 636.37
+  },
+  {
+    "Customer": "000063",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 193.42
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 643.19
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1053.80
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1120.10
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 746.17
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 798.57
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 602.19
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 273.00
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 536.31
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 290.04
+  },
+  {
+    "Customer": "000064",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1197.34
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1578.68
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 252.89
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 141.21
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 245.63
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 241.22
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1806.56
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 788.03
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 601.18
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 972.82
+  },
+  {
+    "Customer": "000065",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1178.69
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 561.47
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 362.76
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 26.83
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 541.07
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 910.40
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 888.60
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1089.20
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1138.60
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 417.40
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 718.31
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 332.14
+  },
+  {
+    "Customer": "000066",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 669.68
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 636.29
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 695.85
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 621.05
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1232.39
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 807.33
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1456.32
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1243.12
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 833.31
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1140.47
+  },
+  {
+    "Customer": "000067",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 281.40
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 598.54
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 252.85
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 664.67
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1571.22
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1411.37
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 429.23
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1165.18
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 498.14
+  },
+  {
+    "Customer": "000068",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 913.38
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 168.71
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1150.83
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 40.55
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 413.62
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 744.10
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 367.95
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 748.58
+  },
+  {
+    "Customer": "000069",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 763.87
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 748.11
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 81.01
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1075.38
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 322.58
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1271.64
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 616.85
+  },
+  {
+    "Customer": "000070",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 447.62
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 235.75
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 801.86
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 441.91
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 855.19
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 167.27
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 795.16
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 377.07
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1275.77
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 430.63
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 916.38
+  },
+  {
+    "Customer": "000071",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1021.88
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 208.97
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 321.76
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 359.98
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1037.84
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 177.72
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 901.29
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 171.98
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 698.03
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 153.25
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1269.50
+  },
+  {
+    "Customer": "000072",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 450.66
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 699.62
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 792.85
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 637.80
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 190.47
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 103.00
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1058.85
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 527.78
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 34.86
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 747.27
+  },
+  {
+    "Customer": "000073",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1049.03
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 774.90
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 334.88
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 89.24
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 627.21
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 703.74
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 336.42
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 510.66
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1594.97
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1238.18
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 624.76
+  },
+  {
+    "Customer": "000074",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 324.19
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1000.95
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1307.86
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 374.89
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 386.79
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 545.74
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 591.55
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 636.23
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1293.60
+  },
+  {
+    "Customer": "000075",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 458.28
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 176.63
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 970.79
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 455.93
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 281.30
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1083.37
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 685.88
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 615.32
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1301.03
+  },
+  {
+    "Customer": "000076",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 789.01
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 128.48
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 303.39
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 534.69
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 836.95
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 650.56
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 598.30
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 811.80
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 843.48
+  },
+  {
+    "Customer": "000077",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 629.54
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 206.58
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 556.26
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 405.13
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 350.52
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 441.63
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1098.40
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 47.20
+  },
+  {
+    "Customer": "000078",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1220.09
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 251.77
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 784.01
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 440.98
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 890.04
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 986.89
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 343.75
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1312.23
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1226.16
+  },
+  {
+    "Customer": "000079",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 150.86
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1522.84
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 330.79
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1447.73
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 566.23
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1083.13
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 121.91
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 961.77
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 538.57
+  },
+  {
+    "Customer": "000080",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 560.49
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 706.48
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 568.74
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1429.05
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 458.96
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 951.19
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 686.33
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 220.29
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 332.61
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 864.30
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1314.60
+  },
+  {
+    "Customer": "000081",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 749.62
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 441.19
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 455.94
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 53.63
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 795.28
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 186.98
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 637.86
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 82.43
+  },
+  {
+    "Customer": "000082",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 951.64
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 837.28
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 643.82
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 563.16
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 125.56
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 524.92
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 411.81
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 387.43
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1217.00
+  },
+  {
+    "Customer": "000083",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 313.48
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 759.56
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1338.83
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1070.96
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 199.73
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 581.47
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 407.76
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 733.60
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1191.35
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 226.95
+  },
+  {
+    "Customer": "000084",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 805.53
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 702.52
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 609.48
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 898.67
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 159.50
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 348.27
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 810.60
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 425.43
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 621.89
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 408.61
+  },
+  {
+    "Customer": "000085",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1161.31
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 513.96
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1554.75
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 824.59
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 131.77
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 860.99
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 817.87
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 398.49
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 578.95
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 272.07
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 211.04
+  },
+  {
+    "Customer": "000086",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 478.63
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 583.40
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 686.65
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1347.18
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 386.52
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 217.45
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 611.26
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 206.88
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 997.84
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 372.71
+  },
+  {
+    "Customer": "000087",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1124.51
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 823.57
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 299.85
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 650.97
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 824.54
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1244.34
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 737.96
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1020.34
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 987.73
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 320.47
+  },
+  {
+    "Customer": "000088",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 104.33
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 237.58
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1547.66
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 369.53
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1575.00
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 155.09
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 611.68
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 862.33
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 335.52
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 110.95
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1149.86
+  },
+  {
+    "Customer": "000089",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 436.04
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 788.76
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 654.79
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 480.73
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 254.83
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 858.57
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 325.61
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 793.33
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1374.65
+  },
+  {
+    "Customer": "000090",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 902.76
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1202.06
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 331.89
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 468.67
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 492.66
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 422.62
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 824.03
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 152.99
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 1131.14
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 766.29
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1297.57
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 527.40
+  },
+  {
+    "Customer": "000091",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 360.97
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 676.92
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 861.38
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 259.30
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 560.99
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 1243.15
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1162.69
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 280.27
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1219.60
+  },
+  {
+    "Customer": "000092",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 580.15
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 747.47
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 883.86
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 533.07
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 588.36
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 166.20
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 832.11
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 623.70
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 453.42
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 612.08
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 86.18
+  },
+  {
+    "Customer": "000093",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 847.11
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 392.28
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 608.40
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 1078.82
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 345.39
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1085.14
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 112.12
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 294.68
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 397.48
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 430.74
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 1083.70
+  },
+  {
+    "Customer": "000094",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 1117.53
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 449.49
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 735.42
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 335.39
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1499.67
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 705.78
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 177.75
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1132.50
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 448.43
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1570.58
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 175.19
+  },
+  {
+    "Customer": "000095",
+    "Year": 2018,
+    "Month": 12,
+    "Amount": 963.75
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 80.43
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 402.82
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 787.09
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1014.43
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 512.49
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 112.15
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 793.60
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 559.18
+  },
+  {
+    "Customer": "000096",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 1375.97
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 342.06
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 294.65
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 742.91
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 679.19
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 338.37
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 1319.23
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 297.58
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 797.11
+  },
+  {
+    "Customer": "000097",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 144.83
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 1609.92
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 770.11
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 111.61
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 1078.61
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 259.78
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 183.88
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1118.48
+  },
+  {
+    "Customer": "000098",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 186.72
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 572.71
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 417.52
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 465.65
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 644.84
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 351.00
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 825.55
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 1210.89
+  },
+  {
+    "Customer": "000099",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 29.82
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 1,
+    "Amount": 179.88
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 2,
+    "Amount": 1246.99
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 3,
+    "Amount": 624.10
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 4,
+    "Amount": 975.12
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 5,
+    "Amount": 81.01
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 6,
+    "Amount": 1237.12
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 7,
+    "Amount": 936.85
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 8,
+    "Amount": 534.57
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 9,
+    "Amount": 948.14
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 10,
+    "Amount": 224.45
+  },
+  {
+    "Customer": "000100",
+    "Year": 2018,
+    "Month": 11,
+    "Amount": 544.64
+  }
+]
